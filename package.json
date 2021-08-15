@@ -55,7 +55,7 @@
     "rimraf": "^3.0.2",
     "rxjs": "~6.6.3",
     "sortablejs": "^1.13.0",
-    "sweetalert2": "^10.13.0",
+    "sweetalert2": "^10.16.9",
     "tslib": "^2.0.0",
     "uniqid": "^5.2.0",
     "zone.js": "~0.10.2"
