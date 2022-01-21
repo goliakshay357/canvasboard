@@ -33,7 +33,7 @@
     "bootstrap": "^4.6.0",
     "chart.js": "^2.9.4",
     "ci": "^1.0.0",
-    "fabric": "^4.3.0",
+    "fabric": "^4.6.0",
     "fuse.js": "^6.4.6",
     "highlight.js": "^10.5.0",
     "jquery": "^3.5.1",
