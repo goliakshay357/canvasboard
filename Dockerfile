@@ -12,5 +12,5 @@ RUN npm install
 RUN npm run build --prod
 
 # stage 2 (Running the app (i.e for production))
-FROM nginx:alpine
+FROM nginx:1.20-alpine
 COPY --from=node /app/dist/canvasboard /usr/share/nginx/html
